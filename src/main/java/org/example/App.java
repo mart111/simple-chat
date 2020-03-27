@@ -1,7 +1,5 @@
 package org.example;
 
-import org.example.aspectj.LogExecutionTime;
-
 import java.io.IOException;
 import java.security.KeyManagementException;
 import java.security.NoSuchAlgorithmException;
